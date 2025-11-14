@@ -1,11 +1,14 @@
 {
   "name": "@eduardkb/ekb-custom-npm-package",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "ekb test package",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/eduardkb/ekb-custom-npm-package.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
