@@ -1,6 +1,6 @@
 {
   "name": "@eduardkb/ekb-custom-npm-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ekb test package",
   "main": "index.js",
   "repository": {
