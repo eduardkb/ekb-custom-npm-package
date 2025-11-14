@@ -7,7 +7,7 @@ function sum(a, b) {
 }
 
 function pow(a, b) {
-  return a ^ b;
+  return a ** b;
 }
 
 module.exports = { greet, sum, pow };
