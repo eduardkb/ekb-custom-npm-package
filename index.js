@@ -6,4 +6,8 @@ function sum(a, b) {
   return a + b;
 }
 
-module.exports = { greet, sum };
+function pow(a, b) {
+  return a ^ b;
+}
+
+module.exports = { greet, sum, pow };
